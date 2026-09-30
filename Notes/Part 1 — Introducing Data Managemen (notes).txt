@@ -1,0 +1,72 @@
+Part 1 — Introducing Data Management and Analysis
+1. Data & Data Sets: Data can be described by form, structure, source, producer, and type.
+Form:
+	→ Quantitative = numerical.
+	→ Qualitative = text, audio, images, video.
+Structure:
+	→ Structured → well-organised, defined data model.
+	→ Semi-structured → irregular/hierarchical.
+	→ Unstructured → no identifiable data model.
+Source: captured, exhaust, original/derived, or transient.
+Producer: primary → secondary → tertiary.
+Type: Indexical, Attribute, and Metadata.
+
+2. Metadata: data about the dataset itself.
+Descriptive → identifies/discovers the dataset.
+Structural → describes its structure, e.g. column headings.
+Administrative → records how the dataset was created and used.
+
+3. Stakeholders & Scale:
+Stakeholders: A dataset/database can have many stakeholders, with different concerns.
+Scale: The three (or six) Vs:
+	→ Volume → how much data.
+	→ Variety → different forms.
+	→ Velocity → how fast data is generated/processed.
+	→ Veracity → how 'clean' it is.
+	→ Validity → The data facts (correct).
+	→ Volatility → how quickly data changes.
+
+Big Data → very large scale of these Vs, used to gather, analyse, link and compare datasets to identify patterns.
+
+4. Data Handling: Data Management + Data Analysis → two distinct but highly interdependent activities.
+Two ways to characterize data handling:
+	→ Data cycle/life cycle → mainly data management.
+	→ Data pipeline → data management + how data is used.
+
+4.1 Data Cycle
+Manage data → Use data → Use well-managed data for other purposes
+
+4.2 Data Pipeline: Activities are not always separate.
+Acquire → Prepare → Analyse → Use
+	→ Steps may be revisited.
+		Example: early analysis → need more data → acquire → prepare → analyse again.
+
+4.4 Data Management Issues
+
+Legal • Control • Curation • Flexibility • Currency • Maintenance
+
+Data Analysis for a purpose:
+Simple question: 'why?, what?, which?, etc.'
+Testing a hypothesis: hypothesis + dataset → analysis → validate & interpret results.
+Finding a story: explore data without a fixed hypothesis until a story emerges.
+
+		Trust & Quality
+
+Trust: is essential for trusting analysis results.
+Data quality: Accuracy, Validity, Reliability, Timeliness, Relevance, Consistency, Completeness, Provenance
+Bias: human, data capture, cleaning, or handling.
+
+4.6 Data Engineering
+Data engineering = engineering computing systems/software and extracting information partly through data analysis.
+Tasks: collect → clean → anonymise → filter → store → shape → analyse → visualise.
+Must respect legal and ethical concerns.
+
+4.7 Ethics & Professionalism
+Ethical behavior = “doing the right thing”.
+Professionals must consider impacts on individuals, communities, and society.
+
+
+
+
+
+
